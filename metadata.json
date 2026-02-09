@@ -1,0 +1,8 @@
+
+{
+  "name": "QuizMaster AI",
+  "description": "A comprehensive quiz management platform for faculty and students, featuring AI-powered question generation, real-time tracking, and deep performance analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
