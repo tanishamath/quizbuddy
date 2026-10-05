@@ -1,1 +1,1 @@
-https://github.com/tanishamath/quizbuddy
+https://tanishamath.github.io/quizbuddy/
